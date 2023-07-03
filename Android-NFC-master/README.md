@@ -1,6 +1,10 @@
-# NFC Token & Credit Card reader 
+# M-TAP(Mobile Tap) (In Progress)
 
-This Project helps developer to read data from credit card: card number, expired date, card type , Read & Write data in NFC tocken.<br>
+This Project helps developers to read data from credit cards: card number, expired date, and card type .<br>
+The goal is to do payments by using NFC Mobile.<br>
+
+This NFC-based system aims to provide contactless payments through a tap. This system will eliminate
+the need for a POS machine and will provide payment modes like UPI id, QR code, and SMS link.
 
 <b>Screenshots</b>
 <p>
